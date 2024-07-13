@@ -1,0 +1,98 @@
+[
+    {
+        "Name": "Bulbasaur",
+        "Price": "£63.00",
+        "Description": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.",
+        "Stock": "45 in stock"
+    },
+    {
+        "Name": "Ivysaur",
+        "Price": "£87.00",
+        "Description": "There is a bud on this Pokémon’s back. To support its weight, Ivysaur’s legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it’s a sign that the bud will bloom into a large flower soon.",
+        "Stock": "142 in stock"
+    },
+    {
+        "Name": "Venusaur",
+        "Price": "£105.00",
+        "Description": "There is a large flower on Venusaur’s back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower’s aroma soothes the emotions of people.",
+        "Stock": "30 in stock"
+    },
+    {
+        "Name": "Charmander",
+        "Price": "£48.00",
+        "Description": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
+        "Stock": "206 in stock"
+    },
+    {
+        "Name": "Charmeleon",
+        "Price": "£165.00",
+        "Description": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
+        "Stock": "284 in stock"
+    },
+    {
+        "Name": "Charizard",
+        "Price": "£156.00",
+        "Description": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+        "Stock": "31 in stock"
+    },
+    {
+        "Name": "Squirtle",
+        "Price": "£130.00",
+        "Description": "Squirtle’s shell is not merely used for protection. The shell’s rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
+        "Stock": "178 in stock"
+    },
+    {
+        "Name": "Wartortle",
+        "Price": "£123.00",
+        "Description": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon’s toughness as a battler.",
+        "Stock": "24 in stock"
+    },
+    {
+        "Name": "Blastoise",
+        "Price": "£76.00",
+        "Description": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
+        "Stock": "88 in stock"
+    },
+    {
+        "Name": "Caterpie",
+        "Price": "£73.00",
+        "Description": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.",
+        "Stock": "40 in stock"
+    },
+    {
+        "Name": "Metapod",
+        "Price": "£148.00",
+        "Description": "The shell covering this Pokémon’s body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
+        "Stock": "285 in stock"
+    },
+    {
+        "Name": "Butterfree",
+        "Price": "£162.00",
+        "Description": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+        "Stock": "242 in stock"
+    },
+    {
+        "Name": "Weedle",
+        "Price": "£25.00",
+        "Description": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
+        "Stock": "65 in stock"
+    },
+    {
+        "Name": "Kakuna",
+        "Price": "£148.00",
+        "Description": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
+        "Stock": "260 in stock"
+    },
+    {
+        "Name": "Beedrill",
+        "Price": "£168.00",
+        "Description": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.",
+        "Stock": "125 in stock"
+    },
+    {
+        "Name": "Pidgey",
+        "Price": "£159.00",
+        "Description": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
+        "Stock": "175 in stock"
+    }
+]
